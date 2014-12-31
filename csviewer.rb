@@ -13,7 +13,7 @@
 # Default delimiter is space.
 #
 # Angelito M. Goulart
-# github.com/angelitomg
+# angelitomg.com
 #
 # September/2012
 #
