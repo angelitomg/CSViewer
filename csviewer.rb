@@ -46,9 +46,7 @@ if File.exists?(filename) then
 	# Read each line
 	file.each do |line|
 	
-		fields = line.split(delimiter)
-		
-		fields.each do |field|
+		line.split(delimiter).each do |field|
 			puts field
 		end
 		
